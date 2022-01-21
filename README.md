@@ -38,6 +38,8 @@ Notes for shapely
 
 
 
+**Notes for debug output. (robot-gym/robot_gym/model/robots/simple_motor.py)**
+#Debug output (q, qdot, kp, kd, tau) (Postion, velocities, PID gains, motor torque)
 
 
 
