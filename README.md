@@ -18,7 +18,7 @@ Create a Python 3.7 virtual environment, e.g. using Anaconda
 
 Clone this repository and run from the root of the project:
 
-``git clone https://github.com/nicrusso7/robot-gym.git``
+``git clone https://github.com/raess1/robot-gym.git``
 
 ``cd robot-gym``
 
