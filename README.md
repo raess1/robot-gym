@@ -28,6 +28,16 @@ Clone this repository and run from the root of the project:
 
 
 
+``Usage: robot-gym playground [OPTIONS]
+
+Options:
+  -r, --robot [ghost|k3lso]     The robot you want to use.
+  -m, --mark TEXT               Set the robot mark (version).
+  -rec, --record-video BOOLEAN  Record a video clip (mp4).
+  -pad, -g, --gamepad BOOLEAN   Control the robot using a gamepad.
+  --help                        Show this message and exit.
+``
+
 
 
 Notes for shapely
